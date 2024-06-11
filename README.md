@@ -30,6 +30,6 @@ Notebooks can be followed in two ways: "_Locally_" by installing Python and Jupy
 
 The work carried out here has been done as part of the WARISKAN-COP project: Water Risk Analysis Based on Copernicus (2020-2-26 - Specific Grant Agreement No. 17).
  
-The authors would like to give special thanks to the attendees of the masterclass session hold in the __$8^{th}$  IAHR EUROPE CONGRESS__ on $3^{th}$ june 2024 in Lisbon (Portugal) and the presentation entitled _"Hydrological Modelling in the Cloud with Copernicus products: A hands-on demonstration"_ in the __YWP European Conference 2024__ in on $17^{th}$ june 2024 IN Copenhagen (Denmark).
+The authors would like to give special thanks to the attendees of the masterclass session hold in the __$8^{th}$  IAHR EUROPE CONGRESS__ on $3^{th}$ june 2024 in Lisbon (Portugal) and the presentation entitled _"Hydrological Modelling in the Cloud with Copernicus products: A hands-on demonstration"_ in the __YWP European Conference 2024__ in on $17^{th}$ june 2024 in Copenhagen (Denmark).
 
 
