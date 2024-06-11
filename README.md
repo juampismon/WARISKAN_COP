@@ -1,8 +1,8 @@
-# __$8^{th}$  IAHR__ EUROPE CONGRESS | WATER - ACROSS BOUNDARIES
+# WARISKAN-COP: Water Risk Analysis Based on Copernicus
 
-## Teaching and working in the cloud with Copernicus products: _A hands-on tutorial for learning the usefulness of cloud computation for collaboration and teaching on a study case_
+## Online masterclass on LULC change effects on Iberian Peninsula and Europe Hydrology
 
-This repository contains the guide and notebooks to follow the masterclass example on the **Iberian Peninsula**. In this way, it is hoped that the material deposited here will serve as support for the development of the masterclass sesion hold in the $8^{th}$  _IAHR EUROPE CONGRESS_ on $3^{th}$ june 2024. The practice is divided into two modules during which different notebooks will be used to generate and process all the data and files necessary for the successful completion of the practice.
+This repository contains the guide and notebooks to follow the masterclass example on the **Iberian Peninsula**. The practice is divided into two modules during which different notebooks will be used to generate and process all the data and files necessary for the successful completion of the practice.
 
 > The [masterclass has a Drive folder](https://drive.google.com/drive/folders/15QpFKMZtpjjnCSg4C5bYA8Lu8i46iThw?usp=drive_link) with data, notebooks, results and documentation.
 
@@ -23,5 +23,13 @@ Notebooks can be followed in two ways: "_Locally_" by installing Python and Jupy
 |Abre Colab para ejecutar los notebooks pulsando aquí abajo|
 |:-:|
 |[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)|
+
+
+
+# Acknowledgements
+
+The work carried out here has been done as part of the WARISKAN-COP project: Water Risk Analysis Based on Copernicus (2020-2-26 - Specific Grant Agreement No. 17).
+ 
+The authors would like to give special thanks to the attendees of the masterclass session hold in the __$8^{th}$  IAHR EUROPE CONGRESS__ on $3^{th}$ june 2024 in Lisbon (Portugal) and the presentation entitled _"Hydrological Modelling in the Cloud with Copernicus products: A hands-on demonstration"_ in the __YWP European Conference 2024__ in on $17^{th}$ june 2024 IN Copenhagen (Denmark).
 
 
