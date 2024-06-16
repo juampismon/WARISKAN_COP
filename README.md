@@ -5,6 +5,7 @@
 This repository contains the guide and notebooks to follow the masterclass example on the **Iberian Peninsula**. The practice is divided into two modules during which different notebooks will be used to generate and process all the data and files necessary for the successful completion of the practice.
 
 > The [masterclass has a Drive folder](https://drive.google.com/drive/folders/15QpFKMZtpjjnCSg4C5bYA8Lu8i46iThw?usp=drive_link) with data, notebooks, results and documentation.
+
 > An [introductory video](https://youtu.be/Ip0dfE0aAnw) is available on Youtube. Watch it to have a smooth and frictionless first encounter with this masterclass.
 
 Below is a short description of each module and the link to the module guides and notebooks:
